@@ -36,6 +36,7 @@ COMANDOS:
 .git status: ver estado de los archivos
 .git add: agregar archivos al repositorio 
 .git log: ver archivos en el repositorio
+.git log --oneline --decorate: dice cual es el cabecero
 .git ckeckout: deshacer cambios en archivos
 .git reset: saca archivos del repositorio
 .git diff: ver que cambios se hicieron 
