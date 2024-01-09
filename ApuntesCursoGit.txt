@@ -38,17 +38,18 @@ COMANDOS:
 .git log: ver archivos en el repositorio
 .git log --oneline --decorate: dice cual es el cabecero
 .git ckeckout: deshacer cambios en archivos
-.git reset: saca archivos del repositorio
-.git diff: ver que cambios se hicieron 
-.git reset numerocomit: deshace la acción guardada de un commit
-.git reset hard numerocomit: deshace la acción guardada de un commit automatico
-.git branch: muestra las ramas existentes
-.git branch nombrerama: crea una nueva rama
 .git checkout nombrerama: entra a la rama existente
 .git checkout -b nombrerama: la crea y entra a la rama de una vez
 .git checkout -d nombrerama: elimina las ramas
+andos
+.git diff: ver que cambios se hicieron 
+.git reset numerocomit: deshace la acción guardada de un commit
+.git reset hard numerocomit: deshace la acción guardada de un commit automatico
+.git reset: saca archivos del repositorio
+.git branch: muestra las ramas existentes
+.git branch nombrerama: crea una nueva rama
 .git branch -m antiguonombre nuevonombre: cambia el nombre de las ramas
-.git branch -h: nos dice que hacer con branch, incluye comandos
+.git branch -h: nos dice que hacer con branch, incluye com
 .git merge 
 .git tag nombreetiqueta: crea una etiqueta
 .git tag -d nombreetiqueta: elimina una etiqueta
