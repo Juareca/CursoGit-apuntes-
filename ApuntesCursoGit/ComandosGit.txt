@@ -1,5 +1,5 @@
 *********************
-Apuntes curso git...VAMOS NOJODA!!!!1112
+Apuntes curso git...VAMOS NOJODA!!!!
 *********************
 
 
@@ -41,7 +41,10 @@ COMANDOS:
 .git status: ver estado de los archivos
 .git add: agregar archivos al repositorio 
 .git log: ver archivos en el repositorio
-.git log --oneline --decorate: dice cual es el cabecero
+.git log --oneline --decorate: dice cual es el cabecero.
+
+git log --decorate --oneline --all --graph: Permite mostrar el historial de commits en forma gráfica, lo que facilita la visualización de las ramificaciones y fusiones en el repositorio. 
+
 .git ckeckout: deshacer cambios en archivos
 .git checkout nombrerama: entra a la rama existente
 .git checkout -b nombrerama: la crea y entra a la rama de una vez
