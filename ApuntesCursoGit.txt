@@ -2,6 +2,9 @@
 Apuntes curso git...VAMOS NOJODA!!!!
 *********************
 
+DesdeMaster
+
+
 -Capitulo1:-
 -----------------------	-
 	Terminología	-
