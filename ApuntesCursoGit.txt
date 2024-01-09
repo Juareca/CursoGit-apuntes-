@@ -2,6 +2,8 @@
 Apuntes curso git...VAMOS NOJODA!!!!
 *********************
 
+Desde nueva_rama
+
 -Capitulo1:-
 -----------------------	-
 	Terminología	-
